@@ -1,2 +1,2 @@
 # dev_log
-"dev_log" è una raccolta dinamica delle mie esperienze e apprendimenti nel campo dello sviluppo software e dell'informatica.
+"dev_log" is a dynamic collection of my experiences and learnings in the field of software development and computer science.
