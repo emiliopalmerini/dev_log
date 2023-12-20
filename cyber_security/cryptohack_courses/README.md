@@ -1,6 +1,6 @@
 Welcome to my personal repository containing comprehensive Jupyter Notebook notes for the CryptoHack course. This repository is a personal collection, primarily designed as a unique reference for my learning journey in cryptography.
 
-## Key Features:
+## Key Features
 
 - **Personalized Notes:** Each notebook is a reflection of my individual learning process throughout the CryptoHack course, tailored to my understanding and perspectives.
 - **Interactive Format:** As an interactive notebook, it allows me to experiment and run Python code directly, facilitating an active learning experience.
